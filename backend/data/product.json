@@ -1,0 +1,163 @@
+[
+  {
+    "name": "GPS tablet",
+    "price": "40.34",
+    "description": "You need a gps tablet ?",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipNQmd9E253AR3yozAaDACHCmI_VMuFsGJALp0s2"
+      }
+    ],
+    "category": "Tablet",
+    "seller": "theKGM",
+    "stock": 10,
+    "numOfReviews": 8,
+    "reviews": []
+  },
+  {
+    "name": "Home Vacuum",
+    "price": "200.00",
+    "description": "Perfect vacuum cleaner",
+    "ratings": 2.85,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipN7f7Jh4GCovLdUWIqhfPfDLbPi3oBC0vJSXbsS"
+      }
+    ],
+    "category": "Home Electronics",
+    "seller": "theKGM",
+    "stock": 3,
+    "numOfReviews": 2,
+    "reviews": []
+  },
+  {
+    "name": "French Door Refrigerator ",
+    "price": "26.99 ",
+    "description": "f you've ever wished you had more space to get more organized, your wish has been granted. With 27 cu. ft., you get that extra space. Thanks to the ultimate organization of the double freezer drawers, you can forget frozen-food avalanches-you've got a place for everything from popsicle to a family-size turkey.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipNpu3L0_ClO40udPn5PhNsAazSpJx3Db3e0DNAv"
+      }
+    ],
+    "category": "Home Electronics",
+    "seller": "theKGM",
+    "stock": 1,
+    "numOfReviews": 12,
+    "reviews": []
+  },
+  {
+    "name": "Button USB Wired Computer Mouse",
+    "price": "29.00 ",
+    "description": "With or without a mouse pad, the mouse moves easily for precise optical tracking. Use the scroll wheel for fast, precise tracking to navigate through your work effortlessly.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipPMwFr_biCc7WfiOcVCkLbPtGYqZTtc-1AfIVwW"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "theKGM",
+    "stock": 11,
+    "numOfReviews": 112,
+    "reviews": []
+  },
+  {
+    "name": "Wireless Color Photo Printer with Scanner, Copier & Fax",
+    "price": "126.99 ",
+    "description": "UPGRADE YOUR OFFICE – Replacing the OfficeJet Pro 8710, this small office printer offers faster printing at 22 pages per minute, automatic 2-sided copy and scan, a 35-page automatic document feeder, and is 37% smaller.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipOC748624jXO7QAvKuzbov9-3DUPhuUpcB8pP3e"
+      }
+    ],
+    "category": "Others",
+    "seller": "theKGM",
+    "stock": 122,
+    "numOfReviews": 2671,
+    "reviews": []
+  },
+  {
+    "name": "Ear Gaming Headphones with Noise Cancelling",
+    "price": "27.99",
+    "description": "【Excellent compatibility &play, no driver needed. Support PlayStation 4, new Xbox One, PC, Nintendo 3DS, laptop, PSP, tablet, iPad, mobile phone. Please note you need an extra Microsoft adapter (not included) when connect with an old version Xbox One controller and the Headset is NOT compatible with PS3 and Xbox360. With an 1 to 2 adapter included, The headset is suitable for different scenes",
+    "ratings": 4.1,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipOkrRVG7eIS9uVJVqrAf-9pCe-022gVnKc9NElL"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "theKGM",
+    "stock": 1123,
+    "numOfReviews": 6,
+    "reviews": []
+  },
+  {
+    "name": "KGMGalaxy Laptop",
+    "price": "446.95",
+    "description": "Enjoy an incredibly slim design in Aura Silver that makes it easy to take your workday or favourite show on-the-go. Tilt the screen back and you’ll notice the spine elevates the keypad ever so slightly, creating a more comfortable angle for typing and navigation",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipM3WNBy5n15xUlHiQdiOHD4fZeSQHCNx2dPZz93"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "theKGM",
+    "stock": 111,
+    "numOfReviews": 22,
+    "reviews": []
+  },
+  {
+    "name": "Best CAMERA  ",
+    "price": "549.99",
+    "description": "Sometimes you need to just point and shoot. Other times you want to fine tune every little detail. Z 5 is up for either challenge, going from fully automatic to totally manual with the turn of a dial.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipODxCsOU-IrjTcjWWATVoTU52DR9BpnCDdxHccA"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "theKGM",
+    "stock": 0,
+    "numOfReviews": 56,
+    "reviews": []
+  },
+  {
+    "name": "Enjoy watching movie at home",
+    "price": "700.75",
+    "description": "Quantum Processor 4K - The AI processor lets you experience the full power of 4K, with 4K upscaling and adaptive sound",
+    "ratings": 5,
+    "images": [
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipN_r38idwupnSTf25kXX2FzEvHKDkyZriyiwn9N"
+      },
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipMQUN-vLqiVc-lKpz9A-kzpPjw76Uds7a2C39yt"
+      },
+      {
+        "public_id": "products/thekgm",
+        "url": "https://photos.google.com/photo/AF1QipNqB7GRnTFloJNyJG4WU6XJ8uIx-HgUFo4Lu6Vt"
+      }
+    ],
+    "category": "General Electronics",
+    "seller": "theKGM",
+    "stock": 50,
+    "numOfReviews": 4,
+    "reviews": []
+  }
+]

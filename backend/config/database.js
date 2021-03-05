@@ -8,8 +8,11 @@ const connectDatabase = () => {
       useCreateIndex: true,
     })
     .then((con) => {
-      console.log(`MongoDB connected with HOST: ${con.connection.host}`);
-    });
+      console.log(
+        `MongoDB Database connected with HOST: ${con.connection.host}`
+      );
+    })
+    .catch((err) => console.log(err));
 };
 
 module.exports = connectDatabase;
